@@ -1,0 +1,16 @@
+13-Jun-22 21:09:53 - ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+13-Jun-22 21:09:53 - |||||||||||||||||||New Running of the algorithm|||||||||||||||||||
+13-Jun-22 21:09:53 - ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+13-Jun-22 21:09:53 - The candidates list: [Candidate name:a office:1, Candidate name:b office:1, Candidate name:c office:2, Candidate name:d office:2, Candidate name:e office:3, Candidate name:f office:3, Candidate name:g office:3]
+13-Jun-22 21:09:53 - For office 1, candidate a was elected with vote's weight of 3 out of vote's weight of 9
+13-Jun-22 21:09:53 - Removes all candidates of the office 1 that a was elected to
+13-Jun-22 21:09:53 - The candidates list after the the filter: [Candidate name:c office:2, Candidate name:d office:2, Candidate name:e office:3, Candidate name:f office:3, Candidate name:g office:3]
+13-Jun-22 21:09:53 - For office 2, candidate c was elected with vote's weight of 1.0 out of vote's weight of 3.0
+13-Jun-22 21:09:53 - Removes all candidates of the office 2 that c was elected to
+13-Jun-22 21:09:53 - The candidates list after the the filter: [Candidate name:e office:3, Candidate name:f office:3, Candidate name:g office:3]
+13-Jun-22 21:09:53 - For office 3, candidate f was elected with vote's weight of 0.8333333333333333 out of vote's weight of 1.1666666666666665
+13-Jun-22 21:09:53 - Removes all candidates of the office 3 that f was elected to
+13-Jun-22 21:09:53 - The candidates list after the the filter: []
+13-Jun-22 21:09:53 - Selected list: {'1': 'a', '2': 'c', '3': 'f'}
+
